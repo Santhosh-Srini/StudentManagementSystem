@@ -32,6 +32,6 @@ First, the user is presented with three options.
 
 You get an error message when an invalid value is entered.
 
-![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/6.png "Main Menu")
+![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/screenshots/6.png "Main Menu")
 
 Finally, **option 3** exits from the application. 
