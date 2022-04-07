@@ -22,7 +22,9 @@ First, the user is presented with three options.
 **In option 2**, the user is asked to enter the ID of the student they wish to view or edit. A list of options is then presented to the user for selection.
 
 ![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/1.png "Main Menu")
+
 ![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/7.png "Main Menu")
+
 ![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/3.png "Main Menu")
 
 **Error Proofing:**
