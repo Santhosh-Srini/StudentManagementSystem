@@ -17,15 +17,16 @@ First, the user is presented with three options.
 
 **Option 1** prompts the user to enter the new student's information, including student ID, name, and program.
 
-![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/4.png "Main Menu")
+![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/screenshots/4.png "Main Menu")
+
 
 **In option 2**, the user is asked to enter the ID of the student they wish to view or edit. A list of options is then presented to the user for selection.
 
-![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/1.png "Main Menu")
+![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/screenshots/1.png "Main Menu")
 
-![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/7.png "Main Menu")
+![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/screenshots/7.png "Main Menu")
 
-![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/3.png "Main Menu")
+![Alt text](https://github.com/Santhosh-Srini/StudentManagementSystem/blob/main/screenshots/3.png "Main Menu")
 
 **Error Proofing:**
 
