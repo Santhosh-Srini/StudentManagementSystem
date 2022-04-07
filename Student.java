@@ -100,16 +100,16 @@ public class Student {
     public void printCourseList(){
         System.out.println("\tStudent course List: ");
         for(int i = 0; i<courses.size();i++){
-            System.out.println("\t\t" + courses.get(i));
+            System.out.println("\t\t\t\t" + courses.get(i));
         }
     }
 
     public void printStudentInfo(){
-        System.out.println("\tStudent ID:\t\t" + studentId);
-        System.out.println("\tName:\t\t" + firstName + " " + lastName);
-        System.out.println("\tTuition Fee :\t\t$" + tuitionFee);
-        System.out.println("\tProgram:\t\t" + programName);
-        System.out.println("\tCurrent GPA:\t\t" + currentGpa + "/4.0");
+        System.out.println("\tStudent ID:\n\t\t\t\t" + studentId);
+        System.out.println("\tName:\t\t\t\t" + firstName + " " + lastName);
+        System.out.println("\tTuition Fee :\t\t\t\t$" + tuitionFee);
+        System.out.println("\tProgram:\t\t\t\t" + programName);
+        System.out.println("\tCurrent GPA:\t\t\t\t" + currentGpa + "/4.0");
         printCourseList();
     }
 
